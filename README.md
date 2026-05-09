@@ -16,13 +16,13 @@
 
 ---
 
-```
-  Engineering student at SIT, Tumkur
-  Python & AI/ML enthusiast
-  Building practical AI and full-stack projects
-  Interested in Open Source, Hackathons and DevOps
-  Exploring Python, Computer Vision and scalable systems
-```
+### 👨‍💻 &nbsp;About Me
+
+- 🎓 &nbsp;Engineering student at **SIT, Tumkur**
+- 🐍 &nbsp;Python & AI/ML enthusiast
+- 🛠 &nbsp;Building practical AI and full-stack projects
+- 🌱 &nbsp;Interested in Open Source, Hackathons and DevOps
+- 🔭 &nbsp;Exploring Python, Computer Vision and scalable systems
 
 ---
 
