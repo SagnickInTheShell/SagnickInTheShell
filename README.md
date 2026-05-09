@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=DM+Serif+Display&size=48&duration=3500&pause=1200&color=000000&center=true&vCenter=true&width=700&height=80&lines=Hi%2C+I'm+Sagnick." alt="Hi, I'm Sagnick." />
+<img src="https://readme-typing-svg.demolab.com?font=DM+Serif+Display&size=52&duration=3500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=750&height=90&lines=%F0%9F%91%8B+Hi%2C+I'm+Sagnick." alt="Hi, I'm Sagnick." />
 
 <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=14&duration=2000&pause=3000&color=888888&center=true&vCenter=true&width=600&height=30&lines=Engineering+Student+%C2%B7+Python+%26+AI%2FML+%C2%B7+SIT%2C+Tumkur" alt="subtitle" />
 
@@ -21,7 +21,7 @@
   Python & AI/ML enthusiast
   Building practical AI and full-stack projects
   Interested in Open Source, Hackathons and DevOps
-  Exploring MERN, Computer Vision and scalable systems
+  Exploring Python, Computer Vision and scalable systems
 ```
 
 ---
@@ -76,18 +76,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
----
-
-### 📊 &nbsp;GitHub Stats
-
-<div align="center">
-
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=SagnickInTheShell&show_icons=true&hide_border=true&count_private=true&theme=default&hide_title=true" />
-&nbsp;
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SagnickInTheShell&layout=compact&hide_border=true&theme=default" />
-
-</div>
 
 ---
 
